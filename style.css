@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #e8dede;
+  }
+  
+  .sample {
+   padding: 0.5em 1em;
+   margin: 2em 0;
+   font-weight: bold;
+   border: solid 2px #000000;
+   border-radius: 10px;/*角の丸み*/
+   width: 600px; /* 幅を調整する値を設定 */
+   height: 210px; /* 高さを調整する値を設定 */
+  }
+  
+  .sample1 {
+   padding: 0.5em 1em;
+   margin: 2em 0;
+   font-weight: bold;
+   border: solid 2px #000000;
+   border-radius: 10px;/*角の丸み*/
+   width: 600px; /* 幅を調整する値を設定 */
+   height: 170px; /* 高さを調整する値を設定 */
+  }
+  
+  .div1{
+    background-color: #eaf6fd;
+  }
+  
+  .div2{
+    background-color: #e2eba3;
+  }
+  
+  /*開始ボタン、停止ボタンの大きさの調整*/
+  #speakButton {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
